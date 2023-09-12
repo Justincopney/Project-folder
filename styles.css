@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(242, 5, 5);
+    background: linear-gradient(180deg, rgb(0, 0, 0)40%, rgb(242, 5, 5)60%);
+}
+
+header { 
+    color:rgb(242, 5, 5);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: -25px -10px;
+    padding-top: 10px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    min-height: 70vh;
+    min-width: 20vw;
+    /*display: block;
+    padding-left: 40%;*/
+}
+
+section {
+    font-size: 1rem;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.list-title {
+    font-size: 2rem;
+}
+
+footer {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+a:hover {
+    text-decoration: underline;
+}
